@@ -44,11 +44,11 @@ section > div {
  max-width: 550px; 
      height: 250px; 
 	
-	position: absolute;
+	position: relative;
     
-   left: 50%; 
+   left: 33%; 
     margin-top: 5px;
 	/* margin-left: 5px; */
-   
+    
 	
 }
