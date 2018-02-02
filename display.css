@@ -41,16 +41,14 @@ section {position: relative;}
     padding-top: 0px;
 }
 section > div {
-         max-width: 550px; 
+ max-width: 550px; 
      height: 250px; 
 	
 	/* position: center; */
     
-   /*  left: 0.1%; */
+   left: 50%; 
     margin-top: 5px;
-	margin-left: 5px;
-    
-    
+	/* margin-left: 5px; */
    
 	
 }
