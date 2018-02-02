@@ -44,7 +44,7 @@ section > div {
  max-width: 550px; 
      height: 250px; 
 	
-	/* position: center; */
+	position: absolute;
     
    left: 50%; 
     margin-top: 5px;
